@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2885844480342664810}
   - component: {fileID: 2279753619368028623}
   - component: {fileID: 4055412984586394885}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: 2X4_ExteriorWall
   m_TagString: Untagged
   m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
@@ -153,6 +153,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GroundOrnament (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6789618426154072696, guid: 7fc0c71b0b99f364193c640caf4ef2b8, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7fc0c71b0b99f364193c640caf4ef2b8, type: 3}
 --- !u!4 &8859825588021571170 stripped
@@ -227,6 +231,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GroundOrnament (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6789618426154072696, guid: 7fc0c71b0b99f364193c640caf4ef2b8, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7fc0c71b0b99f364193c640caf4ef2b8, type: 3}
 --- !u!4 &8859825588737471003 stripped
@@ -244,6 +252,10 @@ PrefabInstance:
     - target: {fileID: 4787349900318825192, guid: 219aeac5958f3a6498a06fd9f89ee2f4, type: 3}
       propertyPath: m_Name
       value: Ornament (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4787349900318825192, guid: 219aeac5958f3a6498a06fd9f89ee2f4, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5277029032283668562, guid: 219aeac5958f3a6498a06fd9f89ee2f4, type: 3}
       propertyPath: m_RootOrder

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 159051750312525104}
   - component: {fileID: 3862623020804158101}
   - component: {fileID: 1332568947632359007}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: 4x4_ExteriorWall
   m_TagString: Untagged
   m_Icon: {fileID: -1412012063857583412, guid: 0000000000000000d000000000000000, type: 0}
@@ -144,6 +144,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GroundOrnament (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6789618426154072696, guid: 7fc0c71b0b99f364193c640caf4ef2b8, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7fc0c71b0b99f364193c640caf4ef2b8, type: 3}
 --- !u!4 &5822565619052865857 stripped
@@ -205,6 +209,10 @@ PrefabInstance:
     - target: {fileID: 6789618426154072696, guid: 7fc0c71b0b99f364193c640caf4ef2b8, type: 3}
       propertyPath: m_Name
       value: GroundOrnament (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6789618426154072696, guid: 7fc0c71b0b99f364193c640caf4ef2b8, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7fc0c71b0b99f364193c640caf4ef2b8, type: 3}
@@ -268,6 +276,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GroundOrnament (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6789618426154072696, guid: 7fc0c71b0b99f364193c640caf4ef2b8, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7fc0c71b0b99f364193c640caf4ef2b8, type: 3}
 --- !u!4 &5822565619372919692 stripped
@@ -285,6 +297,10 @@ PrefabInstance:
     - target: {fileID: 4787349900318825192, guid: 219aeac5958f3a6498a06fd9f89ee2f4, type: 3}
       propertyPath: m_Name
       value: Ornament (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4787349900318825192, guid: 219aeac5958f3a6498a06fd9f89ee2f4, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5277029032283668562, guid: 219aeac5958f3a6498a06fd9f89ee2f4, type: 3}
       propertyPath: m_RootOrder
@@ -347,6 +363,10 @@ PrefabInstance:
     - target: {fileID: 4787349900318825192, guid: 219aeac5958f3a6498a06fd9f89ee2f4, type: 3}
       propertyPath: m_Name
       value: Ornament
+      objectReference: {fileID: 0}
+    - target: {fileID: 4787349900318825192, guid: 219aeac5958f3a6498a06fd9f89ee2f4, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5277029032283668562, guid: 219aeac5958f3a6498a06fd9f89ee2f4, type: 3}
       propertyPath: m_RootOrder
@@ -453,6 +473,10 @@ PrefabInstance:
     - target: {fileID: 6789618426154072696, guid: 7fc0c71b0b99f364193c640caf4ef2b8, type: 3}
       propertyPath: m_Name
       value: GroundOrnament
+      objectReference: {fileID: 0}
+    - target: {fileID: 6789618426154072696, guid: 7fc0c71b0b99f364193c640caf4ef2b8, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7fc0c71b0b99f364193c640caf4ef2b8, type: 3}
